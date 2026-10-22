@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /app
+Disallow: /entrar
+Disallow: /api/
+Sitemap: https://www.startzy.com.br/sitemap.xml
