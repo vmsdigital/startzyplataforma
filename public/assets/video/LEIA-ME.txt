@@ -1,4 +1,0 @@
-Coloque aqui o vídeo da hero com o nome exato: hero.mp4
-Se o arquivo existir, ele toca no fundo da hero (sem som, em loop) por cima das cenas.
-Se não existir, a hero usa as cenas em imagem automaticamente.
-Especificações: 1920x1080, MP4 H.264, 8 a 15 segundos, sem áudio, até 6 MB.
